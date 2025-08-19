@@ -3,7 +3,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 ## Getting Started
 
 First, run the development server:
-
+ npx json-server -w  src/app/database/db.json -p 8000
 ```bash
 npm run dev
 # or
